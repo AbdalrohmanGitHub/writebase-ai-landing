@@ -33,8 +33,8 @@ function Features() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h1 className="h2 mb-4">Explore the solutions</h1>
-            <p className="text-xl text-gray-600">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat.</p>
+            <h1 className="h2 mb-4">What <span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-700 to-yellow-600">amazing!</span> content will you create with AI?</h1>
+            <p className="text-xl text-gray-600">Discover all the ways WriteBase AI Content Platform can help you streamline creative content.</p>
           </div>
 
           {/* Section content */}
@@ -43,7 +43,7 @@ function Features() {
             {/* Content */}
             <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6 md:mt-6" data-aos="fade-right">
               <div className="md:pr-4 lg:pr-12 xl:pr-16 mb-8">
-                <h3 className="h3 mb-3">Powerful suite of tools</h3>
+                <h3 className="h3 mb-3"><span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-700 to-yellow-600">Powerful </span>suite of tools</h3>
                 <p className="text-xl text-gray-600">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa.</p>
               </div>
               {/* Tabs buttons */}
