@@ -34,7 +34,7 @@ function HeroHome() {
 
           {/* Section header */}
           <div className="text-center pb-12 md:pb-16">
-            <h1 className="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4" data-aos="zoom-y-out">Make your writing <span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-700 to-yellow-600">amazing!</span></h1>
+            <h1 className="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4" data-aos="zoom-y-out">Make your content <span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-700 to-yellow-600">amazing!</span></h1>
             <div className="max-w-3xl mx-auto">
               <p className="text-xl text-gray-600 mb-8" data-aos="zoom-y-out" data-aos-delay="150">WriteBase is the content generator that helps remove creative-block, and pushes your team to create amazing original content. It's time to give your content a refresh! </p>
               <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center" data-aos="zoom-y-out" data-aos-delay="300">
