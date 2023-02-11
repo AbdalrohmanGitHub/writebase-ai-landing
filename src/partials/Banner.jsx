@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 function Banner() {
 
-  const [bannerOpen, setBannerOpen] = useState(true);
+  const [bannerOpen, setBannerOpen] = useState(false);
 
   return (
     <>
