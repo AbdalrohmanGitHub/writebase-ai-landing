@@ -89,7 +89,7 @@ function Testimonials() {
                 </blockquote>
                 <cite className="block font-bold text-lg not-italic mb-1">Anna Roshman</cite>
                 <div className="text-gray-600">
-                  <span>Founder of</span> <a className="text-blue-600" href="">Industry Media</a>
+                  <span>Founder of</span> <a className="text-blue-600">Industry Media</a>
                 </div>
               </div>
 
