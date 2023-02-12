@@ -22,7 +22,7 @@ function Header() {
           {/* Site branding */}
           <div className="flex-shrink-0 mr-4">
             {/* Logo */}
-            <Link to="/" className="block" aria-label="Cruip">
+            <Link to="/" className="block" aria-label="WriteBase">
               <svg className="w-8 h-8" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
                 <defs>
                   <radialGradient cx="21.152%" cy="86.063%" fx="21.152%" fy="86.063%" r="79.941%" id="header-logo">
