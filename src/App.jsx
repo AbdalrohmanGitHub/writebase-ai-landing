@@ -38,12 +38,23 @@ function App() {
     <>
       <Routes>
         <Route exact path="/" element={<Home />} />
-        <Route path="/signin" element={<SignIn />} />
-        <Route path="/signup" element={<SignUp />} />
+        <Route path="/signin" element={<Link1 />} />
+        <Route path="/signup" element={<Link2 />} />
         <Route path="/reset-password" element={<ResetPassword />} />
       </Routes>
+
     </>
   );
+  
+  {/* Below functions redirects to external links */}
+  function Link1() {
+    window.location.href = 'https://app.jaeves.com/login/';
+    return null;    
+  }
+  function Link2() {
+    window.location.href = 'https://app.jaeves.com/signup';
+    return null;
+  }
 }
 
 export default App;
