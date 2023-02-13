@@ -33,7 +33,8 @@ function Header() {
           <nav className="flex flex-grow">
             <ul className="flex flex-grow justify-end flex-wrap items-center">
               <li>
-                <Link to="https://app.jaeves.com/login/" className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out">Sign in</Link>
+              
+                <Link to={{ pathname: "https://app.jaeves.com/login/" }} target="_blank" className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out">Sign in</Link>
               </li> {/* Edit sign in URL */}
               <li>
                 <Link to="https://app.jaeves.com/signup/" className="btn-sm text-gray-200 bg-gray-900 hover:bg-gray-800 ml-3">
