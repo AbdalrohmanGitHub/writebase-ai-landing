@@ -48,11 +48,11 @@ function App() {
   
   {/* Below functions redirects to external links */}
   function Link1() {
-    window.location.replace = 'https://app.jaeves.com/login/';
+    window.location.replace('https://app.jaeves.com/login/');
     return null;    
   }
   function Link2() {
-    window.location.replace = 'https://app.jaeves.com/signup';
+    window.location.replace('https://app.jaeves.com/signup');
     return null;
   }
 }
