@@ -34,7 +34,7 @@ function Features() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <h1 className="h2 mb-4">What <span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-700 to-yellow-600">amazing</span> content will you create with AI?</h1>
-            <p className="text-xl text-gray-600">Discover all the ways WriteBase AI Content Platform can help you streamline creative content.</p>
+            <p className="text-xl text-gray-600">Discover all the ways Jaeves AI Content Platform can help you streamline creative content.</p>
           </div>
 
           {/* Section content */}

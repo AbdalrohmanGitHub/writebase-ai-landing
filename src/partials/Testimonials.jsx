@@ -29,7 +29,7 @@ function Testimonials() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <h2 className="h2 mb-4">Trusted by over <span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-700 to-yellow-600">15,000+</span> content creators all over the world</h2>
-            <p className="text-xl text-gray-600" data-aos="zoom-y-out">WriteBase helps 2,500+ companies create better content 10X faster.</p>
+            <p className="text-xl text-gray-600" data-aos="zoom-y-out">Jaeves helps 2,500+ companies create better content 10X faster.</p>
           </div>
 
           {/* Items */}
@@ -85,7 +85,7 @@ function Testimonials() {
                   <img className="relative rounded-full" src={TestimonialImage} width="96" height="96" alt="Testimonial 01" />
                 </div>
                 <blockquote className="text-xl font-medium mb-4">
-                  “ WriteBase, a content generation tool, helps our company produce content faster and with more creativity. It has improved the quality of our copy, resulting in more pre-sold leads. As my company grows, WriteBase is a valuable asset. I highly recommend it. “
+                  “ Jaeves, a content generation tool, helps our company produce content faster and with more creativity. It has improved the quality of our copy, resulting in more pre-sold leads. As my company grows, Jaeves is a valuable asset. I highly recommend it. “
                 </blockquote>
                 <cite className="block font-bold text-lg not-italic mb-1">Anna Roshman</cite>
                 <div className="text-gray-600">

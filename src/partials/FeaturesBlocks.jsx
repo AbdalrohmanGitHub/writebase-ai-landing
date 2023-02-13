@@ -13,7 +13,7 @@ function FeaturesBlocks() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">How to use <span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-700 to-yellow-600">WriteBase AI</span></h2>
+            <h2 className="h2 mb-4">How to use <span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-700 to-yellow-600">Jaeves AI</span></h2>
             <p className="text-xl text-gray-600">Start generating content in 3 easy steps</p>
           </div>
 
