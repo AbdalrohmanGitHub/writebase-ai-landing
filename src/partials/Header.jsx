@@ -24,7 +24,7 @@ function Header() {
             {/* Logo */}
             <Link to="/" className="block" aria-label="WriteBase">
             <br></br>
-            <h1 className="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4" data-aos="zoom-y-out"><span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-700 to-yellow-600">Jaeves</span></h1>
+            <h1 className="text-3xl md:text-4xl font-extrabold leading-tighter tracking-tighter mb-4" data-aos="zoom-y-out"><span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-700 to-yellow-600">Jaeves</span></h1>
           
             </Link>
           </div>
