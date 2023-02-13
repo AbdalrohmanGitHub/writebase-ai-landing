@@ -40,7 +40,7 @@ function HeroHome() {
               <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center" data-aos="zoom-y-out" data-aos-delay="300">
                 <div>
                   <a className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://app.jaeves.com/signup/">Start free trial</a> {/* Change URL */}
-                <p>Free for 7 days then $6 after.</p>
+                <p><small><i>Free for 7 days then $6 after.</i></small></p>
                 </div>
                 <div>
                   <a className="btn text-white bg-gray-900 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="#0">Learn more</a> {/* Change URL */}
