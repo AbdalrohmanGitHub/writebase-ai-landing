@@ -88,7 +88,7 @@ function Features() {
                 {/* Item 1 */}
                 <Transition
                   show={tab === 1}
-                  appear={true}
+                  appear={false}
                   className="w-full"
                   enter="transition ease-in-out duration-700 transform order-first"
                   enterStart="opacity-0 translate-y-16"
@@ -105,7 +105,7 @@ function Features() {
                 {/* Item 2 */}
                 <Transition
                   show={tab === 2}
-                  appear={true}
+                  appear={false}
                   className="w-full"
                   enter="transition ease-in-out duration-700 transform order-first"
                   enterStart="opacity-0 translate-y-16"
